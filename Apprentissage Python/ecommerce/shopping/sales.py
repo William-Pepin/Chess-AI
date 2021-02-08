@@ -1,6 +1,3 @@
-from ecommerce.customer import customer
-
-
 def calc_tax():
     pass
 
